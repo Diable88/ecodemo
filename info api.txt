@@ -1,0 +1,2 @@
+API name: Novaland
+api key: aT27DhgMkcEWQkkNbVabUqeK
